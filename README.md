@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeetSon1
 - 👀 I’m interested in becoming DevOps Engineer
-- 🌱 I’m currently learning comlete DevOps and it's tools
+- 🌱 I’m currently learning DevOps and it's tools
 - 💞️ I’m looking to collaborate on ...
 
 <!---
