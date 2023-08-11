@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meet Soni</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A Passionate DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetson1&label=Profile%20views&color=0e75b6&style=flat" alt="meetson1" /> </p>
 
