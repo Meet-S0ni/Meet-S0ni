@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meetson1" alt="meetson1" /></a> </p>
 
-- 🌱 I’m currently learning **CKA, AWS**
+- 🌱 I’m currently learning **CKA, AWS, Web Development**
 
 - 🤝 I’m looking for help with **Cloud Based Solutions**
 
