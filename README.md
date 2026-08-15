@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://meet-s0ni.github.io/resume/](https://meet-s0ni.github.io/resume/)
 
-- https://www.credly.com/users/meet-soni/skills
+- [https://www.credly.com/users/meet-soni/skills](https://www.credly.com/users/meet-soni)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
